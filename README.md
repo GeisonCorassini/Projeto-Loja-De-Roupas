@@ -39,3 +39,7 @@ Desenvolver uma API RESTful (back-end) utilizando Spring Boot para a gestão de 
   - 1 filtro com JPQL
   - 2 filtros com métodos automáticos
 - Cada entidade deve ter seu próprio controlador, serviço e repositório, com endpoints apropriados para cada uma.
+
+ # POSTMAN
+  
+- https://www.postman.com/geisoncorassini/workspace/projeto-loja-de-roupas/collection/37364143-e152becc-86ec-469c-913a-ef9e208363bc?action=share&creator=37364143
